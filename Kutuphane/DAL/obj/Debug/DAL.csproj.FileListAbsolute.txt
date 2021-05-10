@@ -1,0 +1,47 @@
+C:\Users\mercan ulu\source\repos\Kutuphane\DAL\bin\Debug\DAL.dll.config
+C:\Users\mercan ulu\source\repos\Kutuphane\DAL\bin\Debug\DAL.dll
+C:\Users\mercan ulu\source\repos\Kutuphane\DAL\bin\Debug\DAL.pdb
+C:\Users\mercan ulu\source\repos\Kutuphane\DAL\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\mercan ulu\source\repos\Kutuphane\DAL\bin\Debug\System.Security.AccessControl.dll
+C:\Users\mercan ulu\source\repos\Kutuphane\DAL\bin\Debug\System.Security.Permissions.dll
+C:\Users\mercan ulu\source\repos\Kutuphane\DAL\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\mercan ulu\source\repos\Kutuphane\DAL\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\mercan ulu\source\repos\Kutuphane\DAL\bin\Debug\System.Security.AccessControl.xml
+C:\Users\mercan ulu\source\repos\Kutuphane\DAL\bin\Debug\System.Security.Permissions.xml
+C:\Users\mercan ulu\source\repos\Kutuphane\DAL\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\mercan ulu\source\repos\Kutuphane\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\mercan ulu\source\repos\Kutuphane\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\mercan ulu\source\repos\Kutuphane\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\mercan ulu\source\repos\Kutuphane\DAL\obj\Debug\DAL.dll
+C:\Users\mercan ulu\source\repos\Kutuphane\DAL\obj\Debug\DAL.pdb
+C:\Users\mercan ulu\Desktop\Kutuphane\DAL\bin\Debug\DAL.dll.config
+C:\Users\mercan ulu\Desktop\Kutuphane\DAL\bin\Debug\DAL.dll
+C:\Users\mercan ulu\Desktop\Kutuphane\DAL\bin\Debug\DAL.pdb
+C:\Users\mercan ulu\Desktop\Kutuphane\DAL\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\mercan ulu\Desktop\Kutuphane\DAL\bin\Debug\System.Security.AccessControl.dll
+C:\Users\mercan ulu\Desktop\Kutuphane\DAL\bin\Debug\System.Security.Permissions.dll
+C:\Users\mercan ulu\Desktop\Kutuphane\DAL\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\mercan ulu\Desktop\Kutuphane\DAL\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\mercan ulu\Desktop\Kutuphane\DAL\bin\Debug\System.Security.AccessControl.xml
+C:\Users\mercan ulu\Desktop\Kutuphane\DAL\bin\Debug\System.Security.Permissions.xml
+C:\Users\mercan ulu\Desktop\Kutuphane\DAL\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\mercan ulu\Desktop\Kutuphane\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\mercan ulu\Desktop\Kutuphane\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\mercan ulu\Desktop\Kutuphane\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\mercan ulu\Desktop\Kutuphane\DAL\obj\Debug\DAL.dll
+C:\Users\mercan ulu\Desktop\Kutuphane\DAL\obj\Debug\DAL.pdb
+C:\Users\uluyu\Desktop\Kutuphane\DAL\bin\Debug\DAL.dll
+C:\Users\uluyu\Desktop\Kutuphane\DAL\bin\Debug\DAL.pdb
+C:\Users\uluyu\Desktop\Kutuphane\DAL\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\uluyu\Desktop\Kutuphane\DAL\bin\Debug\System.Security.AccessControl.dll
+C:\Users\uluyu\Desktop\Kutuphane\DAL\bin\Debug\System.Security.Permissions.dll
+C:\Users\uluyu\Desktop\Kutuphane\DAL\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\uluyu\Desktop\Kutuphane\DAL\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\uluyu\Desktop\Kutuphane\DAL\bin\Debug\System.Security.AccessControl.xml
+C:\Users\uluyu\Desktop\Kutuphane\DAL\bin\Debug\System.Security.Permissions.xml
+C:\Users\uluyu\Desktop\Kutuphane\DAL\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\uluyu\Desktop\Kutuphane\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\uluyu\Desktop\Kutuphane\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\uluyu\Desktop\Kutuphane\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\uluyu\Desktop\Kutuphane\DAL\obj\Debug\DAL.dll
+C:\Users\uluyu\Desktop\Kutuphane\DAL\obj\Debug\DAL.pdb

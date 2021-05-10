@@ -1,0 +1,130 @@
+C:\Users\mercan ulu\source\repos\Kutuphane\Kutuphane\bin\Debug\Kutuphane.exe.config
+C:\Users\mercan ulu\source\repos\Kutuphane\Kutuphane\bin\Debug\Kutuphane.exe
+C:\Users\mercan ulu\source\repos\Kutuphane\Kutuphane\bin\Debug\Kutuphane.pdb
+C:\Users\mercan ulu\source\repos\Kutuphane\Kutuphane\bin\Debug\BLL.dll
+C:\Users\mercan ulu\source\repos\Kutuphane\Kutuphane\bin\Debug\ENTITYLAYER.dll
+C:\Users\mercan ulu\source\repos\Kutuphane\Kutuphane\bin\Debug\DAL.dll
+C:\Users\mercan ulu\source\repos\Kutuphane\Kutuphane\bin\Debug\BLL.pdb
+C:\Users\mercan ulu\source\repos\Kutuphane\Kutuphane\bin\Debug\ENTITYLAYER.pdb
+C:\Users\mercan ulu\source\repos\Kutuphane\Kutuphane\bin\Debug\DAL.pdb
+C:\Users\mercan ulu\source\repos\Kutuphane\Kutuphane\bin\Debug\DAL.dll.config
+C:\Users\mercan ulu\source\repos\Kutuphane\Kutuphane\obj\Debug\Kutuphane.csprojAssemblyReference.cache
+C:\Users\mercan ulu\source\repos\Kutuphane\Kutuphane\obj\Debug\Kutuphane.Anasayfa.resources
+C:\Users\mercan ulu\source\repos\Kutuphane\Kutuphane\obj\Debug\Kutuphane.OgrenciIslemleri.resources
+C:\Users\mercan ulu\source\repos\Kutuphane\Kutuphane\obj\Debug\Kutuphane.Properties.Resources.resources
+C:\Users\mercan ulu\source\repos\Kutuphane\Kutuphane\obj\Debug\Kutuphane.csproj.GenerateResource.cache
+C:\Users\mercan ulu\source\repos\Kutuphane\Kutuphane\obj\Debug\Kutuphane.csproj.CoreCompileInputs.cache
+C:\Users\mercan ulu\source\repos\Kutuphane\Kutuphane\obj\Debug\Kutuphane.csproj.CopyComplete
+C:\Users\mercan ulu\source\repos\Kutuphane\Kutuphane\obj\Debug\Kutuphane.exe
+C:\Users\mercan ulu\source\repos\Kutuphane\Kutuphane\obj\Debug\Kutuphane.pdb
+C:\Users\mercan ulu\Desktop\Kutuphane\Kutuphane\bin\Debug\Kutuphane.exe.config
+C:\Users\mercan ulu\Desktop\Kutuphane\Kutuphane\bin\Debug\Kutuphane.exe
+C:\Users\mercan ulu\Desktop\Kutuphane\Kutuphane\bin\Debug\Kutuphane.pdb
+C:\Users\mercan ulu\Desktop\Kutuphane\Kutuphane\bin\Debug\BLL.dll
+C:\Users\mercan ulu\Desktop\Kutuphane\Kutuphane\bin\Debug\ENTITYLAYER.dll
+C:\Users\mercan ulu\Desktop\Kutuphane\Kutuphane\bin\Debug\DAL.dll
+C:\Users\mercan ulu\Desktop\Kutuphane\Kutuphane\bin\Debug\BLL.pdb
+C:\Users\mercan ulu\Desktop\Kutuphane\Kutuphane\bin\Debug\ENTITYLAYER.pdb
+C:\Users\mercan ulu\Desktop\Kutuphane\Kutuphane\bin\Debug\DAL.pdb
+C:\Users\mercan ulu\Desktop\Kutuphane\Kutuphane\bin\Debug\DAL.dll.config
+C:\Users\mercan ulu\Desktop\Kutuphane\Kutuphane\obj\Debug\Kutuphane.csprojAssemblyReference.cache
+C:\Users\mercan ulu\Desktop\Kutuphane\Kutuphane\obj\Debug\Kutuphane.Anasayfa.resources
+C:\Users\mercan ulu\Desktop\Kutuphane\Kutuphane\obj\Debug\Kutuphane.OgrenciIslemleri.resources
+C:\Users\mercan ulu\Desktop\Kutuphane\Kutuphane\obj\Debug\Kutuphane.Properties.Resources.resources
+C:\Users\mercan ulu\Desktop\Kutuphane\Kutuphane\obj\Debug\Kutuphane.csproj.GenerateResource.cache
+C:\Users\mercan ulu\Desktop\Kutuphane\Kutuphane\obj\Debug\Kutuphane.csproj.CoreCompileInputs.cache
+C:\Users\mercan ulu\Desktop\Kutuphane\Kutuphane\obj\Debug\Kutuphane.csproj.CopyComplete
+C:\Users\mercan ulu\Desktop\Kutuphane\Kutuphane\obj\Debug\Kutuphane.exe
+C:\Users\mercan ulu\Desktop\Kutuphane\Kutuphane\obj\Debug\Kutuphane.pdb
+C:\Users\mercan ulu\Desktop\Kutuphane\Kutuphane\obj\Debug\Kutuphane.KitapIslemleri.resources
+C:\Users\mercan ulu\Desktop\Kutuphane\Kutuphane\obj\Debug\Kutuphane.Emanet_gosterim.resources
+C:\Users\mercan ulu\Desktop\Kutuphane\Kutuphane\obj\Debug\Kutuphane.Kitap_grafik_gosterim.resources
+C:\Users\mercan ulu\Desktop\Kutuphane\Kutuphane\obj\Debug\Kutuphane.Ogrenci_emanet.resources
+C:\Users\mercan ulu\Desktop\Kutuphane\Kutuphane\obj\Debug\Kutuphane.Emanet.resources
+C:\Users\mercan ulu\Desktop\Kutuphane\Kutuphane\bin\Debug\ZedGraph.dll
+C:\Users\mercan ulu\Desktop\Kutuphane\Kutuphane\bin\Debug\ZedGraph.xml
+C:\Users\mercan ulu\Desktop\Kutuphane\Kutuphane\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\mercan ulu\Desktop\Kutuphane\Kutuphane\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\mercan ulu\Desktop\Kutuphane\Kutuphane\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\mercan ulu\Desktop\Kutuphane\Kutuphane\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\mercan ulu\Desktop\Kutuphane\Kutuphane\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\mercan ulu\Desktop\Kutuphane\Kutuphane\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\mercan ulu\Desktop\Kutuphane\Kutuphane\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\mercan ulu\Desktop\Kutuphane\Kutuphane\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\mercan ulu\Desktop\Kutuphane\Kutuphane\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\mercan ulu\Desktop\Kutuphane\Kutuphane\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\mercan ulu\Desktop\Kutuphane\Kutuphane\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\mercan ulu\Desktop\Kutuphane\Kutuphane\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\mercan ulu\Desktop\Kutuphane\Kutuphane\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\uluyu\Desktop\Kutuphane\Kutuphane\bin\Debug\Kutuphane.exe
+C:\Users\uluyu\Desktop\Kutuphane\Kutuphane\bin\Debug\Kutuphane.pdb
+C:\Users\uluyu\Desktop\Kutuphane\Kutuphane\bin\Debug\BLL.dll
+C:\Users\uluyu\Desktop\Kutuphane\Kutuphane\bin\Debug\ENTITYLAYER.dll
+C:\Users\uluyu\Desktop\Kutuphane\Kutuphane\bin\Debug\DAL.dll
+C:\Users\uluyu\Desktop\Kutuphane\Kutuphane\bin\Debug\BLL.pdb
+C:\Users\uluyu\Desktop\Kutuphane\Kutuphane\bin\Debug\ENTITYLAYER.pdb
+C:\Users\uluyu\Desktop\Kutuphane\Kutuphane\bin\Debug\ZedGraph.xml
+C:\Users\uluyu\Desktop\Kutuphane\Kutuphane\bin\Debug\DAL.pdb
+C:\Users\uluyu\Desktop\Kutuphane\Kutuphane\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\uluyu\Desktop\Kutuphane\Kutuphane\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\uluyu\Desktop\Kutuphane\Kutuphane\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\uluyu\Desktop\Kutuphane\Kutuphane\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\uluyu\Desktop\Kutuphane\Kutuphane\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\uluyu\Desktop\Kutuphane\Kutuphane\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\uluyu\Desktop\Kutuphane\Kutuphane\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\uluyu\Desktop\Kutuphane\Kutuphane\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\uluyu\Desktop\Kutuphane\Kutuphane\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\uluyu\Desktop\Kutuphane\Kutuphane\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\uluyu\Desktop\Kutuphane\Kutuphane\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\uluyu\Desktop\Kutuphane\Kutuphane\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\uluyu\Desktop\Kutuphane\Kutuphane\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\uluyu\Desktop\Kutuphane\Kutuphane\obj\Debug\Kutuphane.csprojAssemblyReference.cache
+C:\Users\uluyu\Desktop\Kutuphane\Kutuphane\obj\Debug\Kutuphane.Anasayfa.resources
+C:\Users\uluyu\Desktop\Kutuphane\Kutuphane\obj\Debug\Kutuphane.Emanet.resources
+C:\Users\uluyu\Desktop\Kutuphane\Kutuphane\obj\Debug\Kutuphane.Emanet_gosterim.resources
+C:\Users\uluyu\Desktop\Kutuphane\Kutuphane\obj\Debug\Kutuphane.KitapIslemleri.resources
+C:\Users\uluyu\Desktop\Kutuphane\Kutuphane\obj\Debug\Kutuphane.Kitap_grafik_gosterim.resources
+C:\Users\uluyu\Desktop\Kutuphane\Kutuphane\obj\Debug\Kutuphane.OgrenciIslemleri.resources
+C:\Users\uluyu\Desktop\Kutuphane\Kutuphane\obj\Debug\Kutuphane.Ogrenci_emanet.resources
+C:\Users\uluyu\Desktop\Kutuphane\Kutuphane\obj\Debug\Kutuphane.Properties.Resources.resources
+C:\Users\uluyu\Desktop\Kutuphane\Kutuphane\obj\Debug\Kutuphane.csproj.GenerateResource.cache
+C:\Users\uluyu\Desktop\Kutuphane\Kutuphane\obj\Debug\Kutuphane.csproj.CoreCompileInputs.cache
+C:\Users\uluyu\Desktop\Kutuphane\Kutuphane\obj\Debug\Kutuphane.csproj.CopyComplete
+C:\Users\uluyu\Desktop\Kutuphane\Kutuphane\obj\Debug\Kutuphane.exe
+C:\Users\uluyu\Desktop\Kutuphane\Kutuphane\obj\Debug\Kutuphane.pdb
+C:\Users\Mercan\Desktop\Kutuphane\Kutuphane\bin\Debug\Kutuphane.exe
+C:\Users\Mercan\Desktop\Kutuphane\Kutuphane\bin\Debug\Kutuphane.pdb
+C:\Users\Mercan\Desktop\Kutuphane\Kutuphane\bin\Debug\BLL.dll
+C:\Users\Mercan\Desktop\Kutuphane\Kutuphane\bin\Debug\ENTITYLAYER.dll
+C:\Users\Mercan\Desktop\Kutuphane\Kutuphane\bin\Debug\DAL.dll
+C:\Users\Mercan\Desktop\Kutuphane\Kutuphane\bin\Debug\BLL.pdb
+C:\Users\Mercan\Desktop\Kutuphane\Kutuphane\bin\Debug\ENTITYLAYER.pdb
+C:\Users\Mercan\Desktop\Kutuphane\Kutuphane\bin\Debug\ZedGraph.xml
+C:\Users\Mercan\Desktop\Kutuphane\Kutuphane\bin\Debug\DAL.pdb
+C:\Users\Mercan\Desktop\Kutuphane\Kutuphane\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Mercan\Desktop\Kutuphane\Kutuphane\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Mercan\Desktop\Kutuphane\Kutuphane\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Mercan\Desktop\Kutuphane\Kutuphane\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Mercan\Desktop\Kutuphane\Kutuphane\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Mercan\Desktop\Kutuphane\Kutuphane\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Mercan\Desktop\Kutuphane\Kutuphane\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Mercan\Desktop\Kutuphane\Kutuphane\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Mercan\Desktop\Kutuphane\Kutuphane\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Mercan\Desktop\Kutuphane\Kutuphane\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Mercan\Desktop\Kutuphane\Kutuphane\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Mercan\Desktop\Kutuphane\Kutuphane\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Mercan\Desktop\Kutuphane\Kutuphane\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Mercan\Desktop\Kutuphane\Kutuphane\obj\Debug\Kutuphane.csprojAssemblyReference.cache
+C:\Users\Mercan\Desktop\Kutuphane\Kutuphane\obj\Debug\Kutuphane.Anasayfa.resources
+C:\Users\Mercan\Desktop\Kutuphane\Kutuphane\obj\Debug\Kutuphane.Emanet.resources
+C:\Users\Mercan\Desktop\Kutuphane\Kutuphane\obj\Debug\Kutuphane.Emanet_gosterim.resources
+C:\Users\Mercan\Desktop\Kutuphane\Kutuphane\obj\Debug\Kutuphane.KitapIslemleri.resources
+C:\Users\Mercan\Desktop\Kutuphane\Kutuphane\obj\Debug\Kutuphane.Kitap_grafik_gosterim.resources
+C:\Users\Mercan\Desktop\Kutuphane\Kutuphane\obj\Debug\Kutuphane.OgrenciIslemleri.resources
+C:\Users\Mercan\Desktop\Kutuphane\Kutuphane\obj\Debug\Kutuphane.Ogrenci_emanet.resources
+C:\Users\Mercan\Desktop\Kutuphane\Kutuphane\obj\Debug\Kutuphane.Properties.Resources.resources
+C:\Users\Mercan\Desktop\Kutuphane\Kutuphane\obj\Debug\Kutuphane.csproj.GenerateResource.cache
+C:\Users\Mercan\Desktop\Kutuphane\Kutuphane\obj\Debug\Kutuphane.csproj.CoreCompileInputs.cache
+C:\Users\Mercan\Desktop\Kutuphane\Kutuphane\obj\Debug\Kutuphane.csproj.CopyComplete
+C:\Users\Mercan\Desktop\Kutuphane\Kutuphane\obj\Debug\Kutuphane.exe
+C:\Users\Mercan\Desktop\Kutuphane\Kutuphane\obj\Debug\Kutuphane.pdb

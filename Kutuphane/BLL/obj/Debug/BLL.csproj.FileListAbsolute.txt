@@ -1,0 +1,35 @@
+C:\Users\mercan ulu\source\repos\Kutuphane\BLL\bin\Debug\BLL.dll
+C:\Users\mercan ulu\source\repos\Kutuphane\BLL\bin\Debug\BLL.pdb
+C:\Users\mercan ulu\source\repos\Kutuphane\BLL\bin\Debug\DAL.dll
+C:\Users\mercan ulu\source\repos\Kutuphane\BLL\bin\Debug\ENTITYLAYER.dll
+C:\Users\mercan ulu\source\repos\Kutuphane\BLL\bin\Debug\DAL.pdb
+C:\Users\mercan ulu\source\repos\Kutuphane\BLL\bin\Debug\DAL.dll.config
+C:\Users\mercan ulu\source\repos\Kutuphane\BLL\bin\Debug\ENTITYLAYER.pdb
+C:\Users\mercan ulu\source\repos\Kutuphane\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\mercan ulu\source\repos\Kutuphane\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\mercan ulu\source\repos\Kutuphane\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\mercan ulu\source\repos\Kutuphane\BLL\obj\Debug\BLL.dll
+C:\Users\mercan ulu\source\repos\Kutuphane\BLL\obj\Debug\BLL.pdb
+C:\Users\mercan ulu\Desktop\Kutuphane\BLL\bin\Debug\BLL.dll
+C:\Users\mercan ulu\Desktop\Kutuphane\BLL\bin\Debug\BLL.pdb
+C:\Users\mercan ulu\Desktop\Kutuphane\BLL\bin\Debug\DAL.dll
+C:\Users\mercan ulu\Desktop\Kutuphane\BLL\bin\Debug\ENTITYLAYER.dll
+C:\Users\mercan ulu\Desktop\Kutuphane\BLL\bin\Debug\DAL.pdb
+C:\Users\mercan ulu\Desktop\Kutuphane\BLL\bin\Debug\DAL.dll.config
+C:\Users\mercan ulu\Desktop\Kutuphane\BLL\bin\Debug\ENTITYLAYER.pdb
+C:\Users\mercan ulu\Desktop\Kutuphane\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\mercan ulu\Desktop\Kutuphane\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\mercan ulu\Desktop\Kutuphane\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\mercan ulu\Desktop\Kutuphane\BLL\obj\Debug\BLL.dll
+C:\Users\mercan ulu\Desktop\Kutuphane\BLL\obj\Debug\BLL.pdb
+C:\Users\uluyu\Desktop\Kutuphane\BLL\bin\Debug\BLL.dll
+C:\Users\uluyu\Desktop\Kutuphane\BLL\bin\Debug\BLL.pdb
+C:\Users\uluyu\Desktop\Kutuphane\BLL\bin\Debug\DAL.dll
+C:\Users\uluyu\Desktop\Kutuphane\BLL\bin\Debug\ENTITYLAYER.dll
+C:\Users\uluyu\Desktop\Kutuphane\BLL\bin\Debug\DAL.pdb
+C:\Users\uluyu\Desktop\Kutuphane\BLL\bin\Debug\ENTITYLAYER.pdb
+C:\Users\uluyu\Desktop\Kutuphane\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\uluyu\Desktop\Kutuphane\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\uluyu\Desktop\Kutuphane\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\uluyu\Desktop\Kutuphane\BLL\obj\Debug\BLL.dll
+C:\Users\uluyu\Desktop\Kutuphane\BLL\obj\Debug\BLL.pdb

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="C:\Program Files (x86)\InstallShield\2020\Support\0409\buildreport.xsl"?>
+<BuildReport ProductName="Kütüphanem" ProductVersion="1.00.0000" Built="1-12-2021 01-03-15 ÖÖ" Media="DVD-9" Uncompressed="0.00 MB">
+  <Features>
+    <Feature Title="##DN_AlwaysInstall##" Description="Enter the description for this feature here." Comment="Enter comments regarding this feature here.">AlwaysInstall</Feature>
+  </Features>
+  <Prerequisites />
+  <MergeModules />
+  <DynamicLinks />
+  <Files>
+    <File Destination="[ProgramFilesFolder]Kütüphane\My Product Name" Feature="Always Install" Modified="7.01.2021 06:13:40" Size="87710" Version="">b7c593c9ab2104c296e83207ff873302.jpg</File>
+    <File Destination="[ProgramFilesFolder]Kütüphane\My Product Name" Feature="Always Install" Modified="11.01.2021 19:58:46" Size="32256" Version="">BLL.pdb</File>
+    <File Destination="[ProgramFilesFolder]Kütüphane\My Product Name" Feature="Always Install" Modified="10.01.2021 01:55:21" Size="1643657" Version="">brent-ninaber-L6EP96_w1Fc-unsplash.jpg</File>
+    <File Destination="[ProgramFilesFolder]Kütüphane\My Product Name" Feature="Always Install" Modified="11.01.2021 19:58:45" Size="22016" Version="">DAL.pdb</File>
+    <File Destination="[ProgramFilesFolder]Kütüphane\My Product Name" Feature="Always Install" Modified="5.01.2021 22:35:23" Size="34691" Version="">emanett.jpg</File>
+    <File Destination="[ProgramFilesFolder]Kütüphane\My Product Name" Feature="Always Install" Modified="5.01.2021 22:39:22" Size="32134" Version="">emanettt.jpg</File>
+    <File Destination="[ProgramFilesFolder]Kütüphane\My Product Name" Feature="Always Install" Modified="11.01.2021 18:52:59" Size="32256" Version="">ENTITYLAYER.pdb</File>
+    <File Destination="[ProgramFilesFolder]Kütüphane\My Product Name" Feature="Always Install" Modified="7.01.2021 06:49:25" Size="181003" Version="">Google-Noto-Emoji-Objects-62863-books.ico</File>
+    <File Destination="[ProgramFilesFolder]Kütüphane\My Product Name" Feature="Always Install" Modified="5.01.2021 22:19:22" Size="4386" Version="">ikon12.png</File>
+    <File Destination="[ProgramFilesFolder]Kütüphane\My Product Name" Feature="Always Install" Modified="11.01.2021 19:58:51" Size="112128" Version="">Kutuphane.pdb</File>
+    <File Destination="[ProgramFilesFolder]Kütüphane\My Product Name" Feature="Always Install" Modified="11.01.2021 20:26:40" Size="64" Version="">Kutuphane1.ldb</File>
+    <File Destination="[ProgramFilesFolder]Kütüphane\My Product Name" Feature="Always Install" Modified="11.01.2021 20:26:34" Size="401408" Version="">Kutuphane1.mdb</File>
+    <File Destination="[ProgramFilesFolder]Kütüphane\My Product Name" Feature="Always Install" Modified="7.01.2021 06:07:49" Size="26017" Version="">ogremanet.png</File>
+    <File Destination="[ProgramFilesFolder]Kütüphane\My Product Name" Feature="Always Install" Modified="5.01.2021 22:37:57" Size="13769" Version="">ogrenci2.png</File>
+    <File Destination="[ProgramFilesFolder]Kütüphane\My Product Name" Feature="Always Install" Modified="12.12.2008 17:01:34" Size="1492968" Version="">ZedGraph.xml</File>
+    <File Destination="[ProgramFilesFolder]Kütüphane\My Product Name" Feature="Always Install" Modified="11.01.2021 19:58:46" Size="13824" Version="1.0.0.0">BLL.dll</File>
+    <File Destination="[ProgramFilesFolder]Kütüphane\My Product Name" Feature="Always Install" Modified="11.01.2021 19:58:45" Size="7168" Version="1.0.0.0">DAL.dll</File>
+    <File Destination="[ProgramFilesFolder]Kütüphane\My Product Name" Feature="Always Install" Modified="11.01.2021 18:52:59" Size="8704" Version="1.0.0.0">ENTITYLAYER.dll</File>
+    <File Destination="[ProgramFilesFolder]Kütüphane\My Product Name" Feature="Always Install" Modified="11.01.2021 19:58:51" Size="4571136" Version="1.0.0.0">Kutuphane.exe</File>
+    <File Destination="[ProgramFilesFolder]Kütüphane\My Product Name" Feature="Always Install" Modified="12.12.2008 17:01:34" Size="307200" Version="5.1.5.28844">ZedGraph.dll</File>
+  </Files>
+</BuildReport>

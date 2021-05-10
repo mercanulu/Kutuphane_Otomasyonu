@@ -1,0 +1,18 @@
+C:\Users\mercan ulu\source\repos\Kutuphane\ENTITYLAYER\bin\Debug\ENTITYLAYER.dll
+C:\Users\mercan ulu\source\repos\Kutuphane\ENTITYLAYER\bin\Debug\ENTITYLAYER.pdb
+C:\Users\mercan ulu\source\repos\Kutuphane\ENTITYLAYER\obj\Debug\ENTITYLAYER.csprojAssemblyReference.cache
+C:\Users\mercan ulu\source\repos\Kutuphane\ENTITYLAYER\obj\Debug\ENTITYLAYER.csproj.CoreCompileInputs.cache
+C:\Users\mercan ulu\source\repos\Kutuphane\ENTITYLAYER\obj\Debug\ENTITYLAYER.dll
+C:\Users\mercan ulu\source\repos\Kutuphane\ENTITYLAYER\obj\Debug\ENTITYLAYER.pdb
+C:\Users\mercan ulu\Desktop\Kutuphane\ENTITYLAYER\bin\Debug\ENTITYLAYER.dll
+C:\Users\mercan ulu\Desktop\Kutuphane\ENTITYLAYER\bin\Debug\ENTITYLAYER.pdb
+C:\Users\mercan ulu\Desktop\Kutuphane\ENTITYLAYER\obj\Debug\ENTITYLAYER.csprojAssemblyReference.cache
+C:\Users\mercan ulu\Desktop\Kutuphane\ENTITYLAYER\obj\Debug\ENTITYLAYER.csproj.CoreCompileInputs.cache
+C:\Users\mercan ulu\Desktop\Kutuphane\ENTITYLAYER\obj\Debug\ENTITYLAYER.dll
+C:\Users\mercan ulu\Desktop\Kutuphane\ENTITYLAYER\obj\Debug\ENTITYLAYER.pdb
+C:\Users\uluyu\Desktop\Kutuphane\ENTITYLAYER\bin\Debug\ENTITYLAYER.dll
+C:\Users\uluyu\Desktop\Kutuphane\ENTITYLAYER\bin\Debug\ENTITYLAYER.pdb
+C:\Users\uluyu\Desktop\Kutuphane\ENTITYLAYER\obj\Debug\ENTITYLAYER.csprojAssemblyReference.cache
+C:\Users\uluyu\Desktop\Kutuphane\ENTITYLAYER\obj\Debug\ENTITYLAYER.csproj.CoreCompileInputs.cache
+C:\Users\uluyu\Desktop\Kutuphane\ENTITYLAYER\obj\Debug\ENTITYLAYER.dll
+C:\Users\uluyu\Desktop\Kutuphane\ENTITYLAYER\obj\Debug\ENTITYLAYER.pdb
